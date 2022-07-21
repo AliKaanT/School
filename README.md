@@ -1,2 +1,2 @@
 # School
-My projects &amp; codes written for school
+Bu repositories içerisinde üniversite ödev ve projelerim için yazmış olduğum kodları bulabilrsiniz.
